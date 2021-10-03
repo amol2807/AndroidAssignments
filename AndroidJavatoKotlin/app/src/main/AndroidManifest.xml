@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidJavaToKot">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndriodIntroductionKotlin">
+        <activity
+            android:name="com.example.androidJavaToKot.PublishingActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ContactListActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.PersistSettingsActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.GridViewActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.TimePickerActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.SpinnerToastActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ToastFormInputActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.AsyncTaskPerformActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.BasicImageDownloadActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ActionBarMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.SimpleResultReturnActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.IntentWithResultActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ImplicitIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.SimpleBundleDemoActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ExplicitIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ListViewClickActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.BasicClickHandlersActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.SimpleListViewActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.ViewAttributesActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.BasicViewActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.LayoutGravityActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.LinearLayoutDemoActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.androidJavaToKot.BasicTextViewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AndriodIntroductionKotlin.NoActionBar" />
+        <activity
+            android:name="com.example.androidJavaToKot.DemoSelector"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

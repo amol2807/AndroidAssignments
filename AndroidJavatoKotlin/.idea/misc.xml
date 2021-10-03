@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91928/Desktop/Android_Assignments-main/AndroidJavatoKotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/91928/Desktop/Android_Assignments-main/AndroidJavatoKotlin/app/src/main/res/layout/activity_action_bar_menu.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_async_task_perform.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_basic_click_handlers.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_basic_image_download.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_basic_text_view2.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_basic_view.xml" value="0.128" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_contact_list.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_explicit_intent.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_grid_view.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_implicit_intent.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_intent_with_result.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_layout_gravity.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_linear_layout_demo.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_list_view_click.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_main.xml" value="0.1099899091826438" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_persist_settings.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_publishing.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_simple_bundle_demo.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_simple_list_view.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_simple_result_return.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_spinner_toast.xml" value="0.264" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_time_picker.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_toast_form_input.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/activity_view_attributes.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/simple_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/simple_list_item_1.xml" value="0.1" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/layout/simple_spinner_item.xml" value="0.11831483350151362" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_action_bar_menu.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_async_task_perform.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_basic_image_download.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_basic_text_view.xml" value="0.536" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_contact_list.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_explicit_intent.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_grid_view_demo.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_implicit_intent.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_layout_gravity.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_linear_layout_activity.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_list_view_clicks.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_persist_settings.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_publishing_instructions.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_simple_bundle_demo.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_simple_list_view.xml" value="0.1171875" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_simple_result_return.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_spinner_with_toast.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_time_picker_demo.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_toast_form_inputs.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/mkaka/AndroidStudioProjects/AndriodIntroductionKotlin/app/src/main/res/menu/activity_view_attributes.xml" value="0.1171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
